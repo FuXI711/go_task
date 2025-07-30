@@ -44,5 +44,3 @@ func main() {
 	}
 	fmt.Println(count) // 70
 }
-
-//a3189fa9381849f460e4ed8b04c0d5c055df81d9b16b6eabe0a597bbf93ef6f9
