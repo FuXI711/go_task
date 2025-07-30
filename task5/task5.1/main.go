@@ -4,7 +4,8 @@ import (
 	"context"
 	"fmt"
 	"log"
-	store "task6/go-bindings"
+
+	store "task5.1/go-bindings"
 
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
