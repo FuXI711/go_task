@@ -1,4 +1,4 @@
-module github.com/FuXI71/taks5
+module github.com/FuXI71/go_task/task5
 
 go 1.24.5
 
